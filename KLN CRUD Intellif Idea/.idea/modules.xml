@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/KLN CRUD Intellif Idea.iml" filepath="$PROJECT_DIR$/.idea/KLN CRUD Intellif Idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/klncrud/klncrud.iml" filepath="$PROJECT_DIR$/klncrud/klncrud.iml" />
+    </modules>
+  </component>
+</project>
